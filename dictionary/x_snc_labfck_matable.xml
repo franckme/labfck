@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="matable" max_length="40" name="x_snc_labfck_matable" type="collection">
+        <element label="myColumn" max_length="40" name="mycolumn" type="string"/>
+    </element>
+</database>
